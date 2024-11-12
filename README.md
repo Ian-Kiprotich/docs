@@ -4,7 +4,8 @@
 site._**
 
 
-## Contributing to this documentation site
+## Contributing to this documentation site.
+
 
 Visit https://docs.openfn.org/documentation/writing-docs/.
 
